@@ -1,5 +1,7 @@
 # 2024HUNCH-DianaCode
-***NASA HUNCH 2024 Lunar Greenhouse &amp; Smart Home**: Diana Habitat code repository. Contains the code for Smarthome 1, Smarthome 2, and Greenhouse.*
+<ins>***NASA HUNCH 2024 Lunar Greenhouse &amp; Smart Home**: Diana Habitat code repository. Contains the code for Smarthome 1, Smarthome 2, and Greenhouse.*</ins>
+
+*Note: "v1 first version" is the first official and working version of the project's code and the version of code that was presented at the first NASA HUNCH event. Previous versions were not recorded.*
 
 **3rd party libraries used:**
   - https://github.com/johnrickman/LiquidCrystal_I2C
