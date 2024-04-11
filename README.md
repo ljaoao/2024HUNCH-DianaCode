@@ -7,6 +7,9 @@
   - https://github.com/johnrickman/LiquidCrystal_I2C
   - https://github.com/dhrubasaha08/DHT11
 
+**Drivers used:**
+- https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads (CP210x USB to UART Bridge VCP Driver, Universal Windows)
+
 **Electronics under Smarthome 1:**
 - LCD display board
 - relay and water pump
